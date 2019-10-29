@@ -1,0 +1,111 @@
+
+  .header{
+    width: 30%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: #5F9EA0;
+    border-radius:  0px 0px 0px 0px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .input-group input{
+    height:30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid gray;
+
+  }
+  .input group{
+    margin: 10px 0px 10px 0px;
+  
+  }
+  input-group label{
+    display: block;
+    text-align: left;
+  }
+  form {
+    width: 30%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+    font-size: 20px;
+
+  }
+  .btn{
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+    background: #5F9EA0;
+  }
+  body{
+    background-image: url('denis.jpg'); 
+    color:black;
+    background-size:cover;
+
+  }
+  footer {
+    display: block;
+  }
+  .dropdown-menu {
+    width: 30%;
+    margin: 20px auto;
+    padding: 0px;
+    border: 1px solid #B0C4DE;
+    background: #5F9EA0;
+    border-radius:  0px 0px 0px 0px;
+    font-size: 80px;
+    text-align: right;
+
+  }
+  ul li {
+    float:left;
+    width:200px;
+    height:40px;
+    background-color:greenyellow;
+    opacity: .8;
+
+  }
+   li{
+    margin:0px;
+    padding:0pxs;
+    list-style:none;
+    opacity: .8;
+  }
+  
+    form{
+      margin-top:50px;
+      transition:all 4s ease-in-out ;
+    
+    
+    }
+    .form-control{
+      width: 300px;
+      background:transparent;
+      border: none;
+      outline: none;
+      border-bottom: 1px solid gray;
+      color:rebeccapurple;
+      font-size: 20px;
+      margin-bottom: 16px;
+
+    }      
+    input{
+      height:45px;
+
+    } 
+    form .submit{
+      background:rgb(255, 47, 116);
+      border-color: transparent;
+      color: #fff;
+      font-size: 20px;
+      font-weight: bold;
+      height:50px;
+      margin-top: 20px;
+
+    }        
+    
